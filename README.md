@@ -1,4 +1,4 @@
-# APM — Android Package Manager
+# ABM — Android Package Manager
 
 <p align="center"><a href="README.en.md">English</a> | 简体中文</p>
 
