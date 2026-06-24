@@ -57,7 +57,7 @@
 
 ### 下载预构建的应用包
 
-> 💡 即将推出 — macOS、Windows、Linux 的预构建安装包会发布在 [Releases](https://github.com/your-username/apm/releases) 页面，敬请关注。
+> 💡 即将推出 — macOS、Windows、Linux 的预构建安装包会发布在 [GitCode Releases](https://gitcode.com/csdnjxx/ApkBuildTool/releases) 页面，敬请关注。
 
 | 平台 | 架构 | 格式 |
 |------|------|------|
